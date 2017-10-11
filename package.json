@@ -1,0 +1,8 @@
+{
+  "name": "notificationFx",
+  "version": "0.0.1",
+  "description": "Unobtrusive notifications on a website",
+  "author": "Codrops",
+  "homepage": "https://github.com/codrops/NotificationStyles",
+  "license": "MIT"
+}
